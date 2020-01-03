@@ -1,5 +1,7 @@
-package com.test;
+package one;
 
+
+import java.util.Scanner;
 
 public class Main {
 	
